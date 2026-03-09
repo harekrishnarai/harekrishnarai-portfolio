@@ -10,17 +10,17 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:harekrishnarai@protonmail.com" data-cursor="disable">
+                harekrishnarai@protonmail.com
               </a>
             </p>
-            <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <h4>Focus Areas</h4>
+            <p>Supply Chain Security, Threat Intelligence</p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
+            <h4>Social & Projects</h4>
             <a
-              href="https://github.com/raxx21"
+              href="https://github.com/harekrishnarai"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -28,36 +28,36 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
+              href="https://harekrishnarai.github.io"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
+              Portfolio <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/raxx21_official"
+              href="https://github.com/harekrishnarai/scs-feed-visualizer"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              SCS Dashboard <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/therajeshchityal"
+              href="https://harekrishnarai.github.io/scs-feed-visualizer/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              Live Dashboard <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Harekrishna Rai</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>

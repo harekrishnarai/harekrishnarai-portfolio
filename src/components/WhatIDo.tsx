@@ -88,21 +88,22 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h4>Interactive Data Dashboards & UIs</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Building high-performance interfaces for intelligence platforms.
+                Specialized in data visualization, security dashboards, and real-time
+                monitoring interfaces. Pixel-perfect, responsive designs.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
                 <div className="what-tags">Next.js</div>
                 <div className="what-tags">TypeScript</div>
+                <div className="what-tags">Recharts</div>
+                <div className="what-tags">Tailwind CSS</div>
+                <div className="what-tags">Three.js</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
                 <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +127,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>BACKEND & DATA</h3>
+              <h4>Scalable Architectures & Analysis</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Building robust APIs, microservices, and data pipelines. 
+                Expertise in ETL systems, threat intelligence aggregation, and
+                security data processing. Production-ready systems at scale.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
+                <div className="what-tags">Python</div>
                 <div className="what-tags">Express.js</div>
                 <div className="what-tags">MongoDB</div>
                 <div className="what-tags">PostgreSQL</div>
                 <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Data Pipelines</div>
+                <div className="what-tags">GitHub Actions</div>
               </div>
               <div className="what-arrow"></div>
             </div>

@@ -21,6 +21,8 @@ const imageUrls = [
   "/images/mysql.webp",
   "/images/typescript.webp",
   "/images/javascript.webp",
+  // Extended tech stack for Harekrishna Rai
+  // Includes: Python, Three.js, Recharts, Security Tools
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 

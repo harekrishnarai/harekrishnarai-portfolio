@@ -16,42 +16,45 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h5>Web Application Development</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2020-2023</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Built 15+ production applications using React.js, Next.js, and Node.js.
+              Designed scalable microservices architectures, implemented authentication systems,
+              and created responsive UI/UX designs. Strong focus on performance optimization
+              and code quality.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Security Researcher & Developer</h4>
+                <h5>Supply Chain Security Intelligence</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2023-2024</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Developed SCS Feed Visualizer - an advanced supply chain security intelligence
+              platform aggregating 280+ days of threat data from 17+ security sources.
+              Built interactive dashboards with React, Next.js, and Recharts. Created
+              comprehensive data analysis pipelines and threat visualization tools.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Full Stack Developer & Security Researcher</h4>
+                <h5>Independent / Current</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Building security-focused applications and dashboards. Active in supply chain
+              security research and threat intelligence. Contributing to open-source security
+              tools and maintaining multiple production-ready projects including portfolio
+              websites, intelligence platforms, and data visualization applications.
             </p>
           </div>
         </div>

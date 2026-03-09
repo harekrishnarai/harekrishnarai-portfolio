@@ -6,11 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Full Stack Developer & Supply Chain Security Researcher with 5+ years of experience
+          building secure, scalable web applications and security intelligence platforms. 
+          Specialized in supply chain security, threat intelligence visualization, and building
+          production-ready dashboards. Experienced with React.js, Next.js, TypeScript, Python, 
+          and modern DevOps practices. Passionate about securing software supply chains and 
+          creating data-driven security solutions that matter.
         </p>
       </div>
     </div>
